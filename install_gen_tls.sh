@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 K8S_DIR=/usr/local/k8s/
 
 mkdir -p $K8S_DIR/bin
